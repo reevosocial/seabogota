@@ -1,12 +1,6 @@
 <div class="fh5co-gallery">
 
-				<a class="gallery-item" href=".php">
-					<img src="images/work_1.jpg" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
-					<span class="overlay">
-						<h2>Apuntes</h2>
-						<span>14 Recursos</span>
-					</span>
-				</a>
+
 				<a class="gallery-item" href="agenda.php">
 					<img src="images/agenda.jpg" alt="Agenda">
 					<span class="overlay">
@@ -21,13 +15,6 @@
 						<span>15 Recursos</span>
 					</span>
 				</a>
-				<a class="gallery-item" href="single.php">
-					<img src="images/work_4.jpg" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
-					<span class="overlay">
-						<h2>Entrevistas</h2>
-						<span>28 Recursos</span>
-					</span>
-				</a>
 				<a class="gallery-item" href="fotos.php">
 					<img src="images/fotos.jpg" alt="Fotografías">
 					<span class="overlay">
@@ -35,11 +22,11 @@
 						<span>57 Recursos</span>
 					</span>
 				</a>
-				<a class="gallery-item" href="single.php">
-					<img src="images/work_6.jpg" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+				<a class="gallery-item" href="charlas.php">
+					<img src="images/charlas1.jpg">
 					<span class="overlay">
-						<h2>Estadísticas</h2>
-						<span>34 Recursos</span>
+						<h2>Charlas</h2>
+						<span>8 Recursos</span>
 					</span>
 				</a>
 				<a class="gallery-item" href="medios.php">
@@ -56,5 +43,20 @@
 						<span>19 Recursos</span>
 					</span>
 				</a>
-
+				<!-- 
+				<a class="gallery-item">
+					<img src="images/work_4.jpg">
+					<span class="overlay">
+						<h2>Entrevistas</h2>
+						<span>No disponible</span>
+					</span>
+				</a>
+				<a class="gallery-item">
+					<img src="images/work_1.jpg">
+					<span class="overlay">
+						<h2>Apuntes</h2>
+						<span>No disponible</span>
+					</span>
+				</a>
+				-->
 			</div>

@@ -46,7 +46,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	https://lacasatomadasv.wordpress.com	"><i class="icon-link"></i></a></li>
+							<li><a href="	https://lacasatomadasv.wordpress.com	"><i class="icon-link"> Sitio Web Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -84,7 +84,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://marespedagogia.pe/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://marespedagogia.pe/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -103,7 +103,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://centromontessori.cl/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://centromontessori.cl/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -122,7 +122,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.flordejuego.com	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.flordejuego.com	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -160,7 +160,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.kurmiwasi.org/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.kurmiwasi.org/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -198,7 +198,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://redesdetutoria.org/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://redesdetutoria.org/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -217,7 +217,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.lacecilia.org.ar	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.lacecilia.org.ar	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -236,7 +236,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://escolapoliteia.com.br	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://escolapoliteia.com.br	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -255,7 +255,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.crecerenlibertad.org	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.crecerenlibertad.org	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -274,7 +274,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	https://pedrogarciaolivo.wordpress.com/	"><i class="icon-link"></i></a></li>
+							<li><a href="	https://pedrogarciaolivo.wordpress.com/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -293,7 +293,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.mepamexico.org/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.mepamexico.org/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -312,7 +312,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.lospatojos.org.gt	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.lospatojos.org.gt	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -331,7 +331,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://conane.pro.br/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://conane.pro.br/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -350,7 +350,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.nuestraescuela.org/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.nuestraescuela.org/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -369,7 +369,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.ivanillich.org.mx/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.ivanillich.org.mx/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -388,7 +388,7 @@ include("menu.php");
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.uv.mx/personal/yojimenez/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.uv.mx/personal/yojimenez/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -411,7 +411,7 @@ Betzabé ha participado en La Educación Prohibida y en Imagine Elephants, y apo
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.montessoricanela.es	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.montessoricanela.es	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -430,7 +430,7 @@ Betzabé ha participado en La Educación Prohibida y en Imagine Elephants, y apo
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://nuestraescuela.org/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://nuestraescuela.org/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -449,7 +449,7 @@ Betzabé ha participado en La Educación Prohibida y en Imagine Elephants, y apo
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.educationrevolution.org/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.educationrevolution.org/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -469,7 +469,7 @@ Es Co-Fundador de la Cooperativa Audiovisual  ""Groncho Películas"" donde se de
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	https://www.facebook.com/mochacelis	"><i class="icon-link"></i></a></li>
+							<li><a href="	https://www.facebook.com/mochacelis	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -488,7 +488,7 @@ Es Co-Fundador de la Cooperativa Audiovisual  ""Groncho Películas"" donde se de
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://ialapaulofreire.blogspot.com.ar/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://ialapaulofreire.blogspot.com.ar/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -527,7 +527,7 @@ Antes de su designación como Secretario, Román fue Presidente de  la Organizac
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.nuestraescuela.org/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.nuestraescuela.org/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -546,7 +546,7 @@ Antes de su designación como Secretario, Román fue Presidente de  la Organizac
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://portal.mec.gov.br/index.php	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://portal.mec.gov.br/index.php	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -565,7 +565,7 @@ Antes de su designación como Secretario, Román fue Presidente de  la Organizac
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	https://www.facebook.com/pages/ENFF-Escola-Nacional-Florestan-Fernandes/407714382684863	"><i class="icon-link"></i></a></li>
+							<li><a href="	https://www.facebook.com/pages/ENFF-Escola-Nacional-Florestan-Fernandes/407714382684863	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -584,7 +584,7 @@ Antes de su designación como Secretario, Román fue Presidente de  la Organizac
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://otra-educacion.blogspot.com.ar/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://otra-educacion.blogspot.com.ar/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -603,7 +603,7 @@ Antes de su designación como Secretario, Román fue Presidente de  la Organizac
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.nuestraescuela.org	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.nuestraescuela.org	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -641,7 +641,7 @@ Antes de su designación como Secretario, Román fue Presidente de  la Organizac
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.abacoenred.com/	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.abacoenred.com/	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>
@@ -660,7 +660,7 @@ Antes de su designación como Secretario, Román fue Presidente de  la Organizac
         </div>
         <div class="modal-footer">
 						<ul class="fh5co-social">
-							<li><a href="	http://www.fundacionami.org.ec	"><i class="icon-link"></i></a></li>
+							<li><a href="	http://www.fundacionami.org.ec	"><i class="icon-link"> Sitio Web</i></a></li>
 						</ul>
         </div>
       </div>

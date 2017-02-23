@@ -22,7 +22,7 @@ include("menu.php");
 				<div class="row">
 					<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
 						<p class="fh5co-lead">En Agosto de 2015 la ciudad de Bogotá fue sede del primer encuentro internacional de educación alternativa de habla hispana. Un evento gratuito que se desplegó por toda la ciudad, con más de 50 invitados internacionales y el propósito de fomentar la transformación educativa.</p>
-						<p><a href="#" class="btn btn-primary btn-outline">Leer más</a></p>
+						<!--  <p><a href="#" class="btn btn-primary btn-outline">Leer más</a></p>  -->
 					</div>
 					
 				</div>
@@ -36,7 +36,7 @@ include("menu.php");
 			
 			
 					<?php
-include("gallery-home.php");
+include("gallery.php");
 ?>
 			
 	
@@ -93,7 +93,7 @@ include("gallery-home.php");
 				</div>
 			</div>
 
-
+			<!--
 			<div class="fh5co-testimonial" >
 				<div class="fh5co-narrow-content">
 					<div class="owl-carousel-fullwidth animate-box" data-animate-effect="fadeInLeft">
@@ -118,14 +118,14 @@ include("gallery-home.php");
 		          </div>
 				</div>
 			</div>
-
+			-->
 
 			<div class="fh5co-counters" style="background-image: url(images/hero.jpg);" data-stellar-background-ratio="0.5" id="counter-animate">
 				<div class="fh5co-narrow-content animate-box">
 					<div class="row" >
 						<div class="col-md-3 text-center">
 <span class="fh5co-counter js-counter" data-from="0" data-to="305" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Actividades gratuitas</span>
+							<span class="fh5co-counter-label">Actividades gratuitas realizadas</span>
 						</div>
 						<div class="col-md-3 text-center">
 							<span class="fh5co-counter js-counter" data-from="0" data-to="50" data-speed="5000" data-refresh-interval="50"></span>
@@ -137,7 +137,7 @@ include("gallery-home.php");
 						</div>
 						<div class="col-md-3 text-center">
 							<span class="fh5co-counter js-counter" data-from="0" data-to="30" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Escuelas participaron</span>
+							<span class="fh5co-counter-label">Escuelas locales participaron</span>
 						</div>
 					</div>
 				</div>
@@ -152,8 +152,8 @@ include("gallery-home.php");
 				</div>
 				<div class="row">
 					<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-						<p class="fh5co-lead">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-						<p><a href="carta.php" class="btn btn-primary btn-outline">Learn More</a></p>
+						<p class="fh5co-lead">Durante la SEA se realizó un Encuentro Latinoamericano con participantes de todo el continente, en el cual se acordó en la escritura colectiva de una Carta Abierta que reflejara las posturas mayoritarias. Compartimos aquí el resultado de ese proceso.</p>
+						<p><a href="carta.php" class="btn btn-primary btn-outline">Ver más</a></p>
 					</div>
 					
 				</div>
