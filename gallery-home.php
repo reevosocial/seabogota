@@ -35,11 +35,11 @@
 						<span>57 Recursos</span>
 					</span>
 				</a>
-				<a class="gallery-item" href="single.php">
+				<a class="gallery-item" href="charlas.php">
 					<img src="images/work_6.jpg" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
 					<span class="overlay">
-						<h2>Estadísticas</h2>
-						<span>34 Recursos</span>
+						<h2>Charlas</h2>
+						<span>8 Recursos</span>
 					</span>
 				</a>
 				<a class="gallery-item" href="medios.php">
