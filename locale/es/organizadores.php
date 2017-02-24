@@ -1,11 +1,3 @@
-		<?php
-include("header.php");
-?>
-
-		<?php
-include("menu.php");
-?>
-
 
 		<div id="fh5co-main">
 
@@ -56,6 +48,3 @@ include("menu.php");
 			</div>
 
 		</div>
-	</div>
-
-		<?php include("footer.php");?>

@@ -1,19 +1,9 @@
-		<?php
-include("header.php");
-?>
-
-		
-		<?php
-include("menu.php");
-?>
-
-		
-		<div id="fh5co-main">
+<div id="fh5co-main">
 
 			
 
 			<div class="fh5co-narrow-content animate-box fh5co-border-bottom" data-animate-effect="fadeInLeft">
-				<h2 class="fh5co-heading" >Apuntes Gráficos</span></h2>
+				<h2 class="fh5co-heading" >Graphic Notes</span></h2>
 				<p>Durante toda la semama, el equipo de ImagInk realizó un proceso de sistematización gráfica de las conversaciones y actividades principales de la SEA. A continuación compartimos sus versiones digitales que ofician de apuntes sobre lo conversado en el evento. </p>
 				<p><b>Haz click para explorar las imágenes.</b></p>
 				
@@ -46,5 +36,3 @@ include("menu.php");
 
 
 		</div>
-	</div>
-		<?php include("footer.php");?>

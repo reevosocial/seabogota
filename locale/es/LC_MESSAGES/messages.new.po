@@ -1,0 +1,171 @@
+#: menu.php:14
+msgid "Registro"
+msgstr ""
+
+#: menu.php:15
+msgid "Invitados"
+msgstr ""
+
+#: menu.php:16 index.php:151
+msgid "Carta Abierta"
+msgstr ""
+
+#: menu.php:17
+msgid "Organizadores"
+msgstr ""
+
+#: menu.php:22
+msgid "Semana Internacional "
+msgstr ""
+
+#: menu.php:22
+msgid "de las Educaciones Alternativas"
+msgstr ""
+
+#: gallery.php:7
+msgid "Agenda"
+msgstr ""
+
+#: gallery.php:8
+msgid "Actividades"
+msgstr ""
+
+#: gallery.php:14
+msgid "Apuntes Grficos"
+msgstr ""
+
+#: gallery.php:15 gallery.php:22 gallery.php:29 gallery.php:36 gallery.php:43
+msgid "Recursos"
+msgstr ""
+
+#: gallery.php:21
+msgid "Fotografas"
+msgstr ""
+
+#: gallery.php:28
+msgid "Registro Audiovisual"
+msgstr ""
+
+#: gallery.php:35
+msgid "Registros en Medios"
+msgstr ""
+
+#: gallery.php:42
+msgid "Videos"
+msgstr ""
+
+#: gallery.php:50
+msgid "Entrevistas"
+msgstr ""
+
+#: gallery.php:51 gallery.php:58
+msgid "No disponible"
+msgstr ""
+
+#: gallery.php:57
+msgid "Apuntes"
+msgstr ""
+
+#: index.php:22
+msgid "Semana Internacional de las Educaciones Alternativas"
+msgstr ""
+
+#: index.php:27
+msgid ""
+"En Agosto de 2015 la ciudad de Bogot fue sede del primer encuentro "
+"internacional de educacin alternativa de habla hispana. Un evento gratuito "
+"que se despleg por toda la ciudad, con ms de 50 invitados internacionales y "
+"el propsito de fomentar la transformacin educativa."
+msgstr ""
+
+#: index.php:28
+msgid "Leer ms"
+msgstr ""
+
+#: index.php:54
+msgid "Transformacin"
+msgstr ""
+
+#: index.php:55
+msgid ""
+"Un llamado a que juntos reconozcamos y reflexionemos con los colegios "
+"pblicos que se han interesado por transformar y transformarse; fortaleciendo "
+"educaciones alternativas e innovadoras; y construyendo nuevos puentes entre "
+"las escuelas y sus territorios."
+msgstr ""
+
+#: index.php:65
+msgid "Territorio"
+msgstr ""
+
+#: index.php:66
+msgid ""
+"Propuestas desde las nuevas ciudadanas en sus territorios, que ocurrieron "
+"simultneamente en toda la ciudad. Nios, jvenes, adultos, fueron parte de "
+"escenarios de aprendizaje creativo, vivo y consiente mediante encuentros "
+"abiertos, talleres, conversatorios, muestras e intervenciones con un enfoque "
+"experiencial y activo."
+msgstr ""
+
+#: index.php:77
+msgid "Comunicacin"
+msgstr ""
+
+#: index.php:78
+msgid ""
+"Pensadores, educadores, investigadores y emprendedores sociales de Colombia "
+"y el mundo participaron de espacios de intercambio y debate en torno a "
+"problemticas que atraviesan la realidad de la educacin en la regin. "
+"Compartieron sus propuestas e ideas a travs de paneles temticos, talleres "
+"participativos de reflexin y formacin."
+msgstr ""
+
+#: index.php:88
+msgid "Encuentro"
+msgstr ""
+
+#: index.php:89
+msgid ""
+"Referentes internacionales y colombianos del campo de la educacin "
+"alternativa que portan experiencias y puntos de vista disidentes, crticos, "
+"alternativos, contrahegemnicos se reunieron en dilogos participativos sobre "
+"los principales temas en torno a la educacin."
+msgstr ""
+
+#: index.php:129
+msgid "Actividades gratuitas realizadas"
+msgstr ""
+
+#: index.php:133
+msgid "Invitados internacionales convocados"
+msgstr ""
+
+#: index.php:137
+msgid "Personas asistieron"
+msgstr ""
+
+#: index.php:141
+msgid "Escuelas locales participaron"
+msgstr ""
+
+#: index.php:156
+msgid ""
+"Durante la SEA se realiz un Encuentro Latinoamericano con participantes de "
+"todo el continente, en el cual se acord en la escritura colectiva de una "
+"Carta Abierta que reflejara las posturas mayoritarias. Compartimos aqu el "
+"resultado de ese proceso."
+msgstr ""
+
+#: index.php:157
+msgid "Ver ms"
+msgstr ""
+
+#: header.php:9
+msgid "Semana Internacional de las Educaciones Alternativas - Bogot 2015"
+msgstr ""
+
+#: header.php:11
+msgid ""
+"La SEA es un evento internacional que se desarrol en la ciudad de bogot en "
+"Agosto de 2015."
+msgstr ""

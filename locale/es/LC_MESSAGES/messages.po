@@ -1,0 +1,213 @@
+# Copyright (C) Reevo (http://reevo.org)
+# This file is distributed under the Affero GPL v3 License.
+# Franco Iacomella <franco@reevo.org>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-28 12:51-0300\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: menu.php:14
+msgid "Registro"
+msgstr "Registro"
+
+#: menu.php:15
+msgid "Invitados"
+msgstr "Invitados"
+
+#: menu.php:16 index.php:151
+msgid "Carta Abierta"
+msgstr "Carta Abierta de Bogotá"
+
+#: menu.php:17
+msgid "Organizadores"
+msgstr "Organizadores"
+
+#: menu.php:22
+msgid "Semana Internacional "
+msgstr "Semana Internacional "
+
+#: menu.php:22
+msgid "de las Educaciones Alternativas"
+msgstr "de las Educaciones Alternativas"
+
+#: gallery.php:7
+msgid "Agenda"
+msgstr "Agenda"
+
+#: gallery.php:8
+msgid "Actividades"
+msgstr "Actividades"
+
+#: gallery.php:14
+msgid "Apuntes Grficos"
+msgstr "Apuntes Grficos"
+
+#: gallery.php:15 gallery.php:22 gallery.php:29 gallery.php:36 gallery.php:43
+msgid "Recursos"
+msgstr "Recursos"
+
+#: gallery.php:21
+msgid "Fotografas"
+msgstr "Fotografas"
+
+#: gallery.php:28
+msgid "Registro Audiovisual"
+msgstr "Registro Audiovisual"
+
+#: gallery.php:35
+msgid "Registros en Medios"
+msgstr "Registros en Medios"
+
+#: gallery.php:42
+msgid "Videos"
+msgstr "Videos"
+
+#: gallery.php:50
+msgid "Entrevistas"
+msgstr "Entrevistas"
+
+#: gallery.php:51 gallery.php:58
+msgid "No disponible"
+msgstr "No disponible"
+
+#: gallery.php:57
+msgid "Apuntes"
+msgstr "Apuntes"
+
+#: index.php:22
+msgid "Semana Internacional de las Educaciones Alternativas"
+msgstr "Semana Internacional de las Educaciones Alternativas"
+
+#: index.php:27
+msgid ""
+"En Agosto de 2015 la ciudad de Bogot fue sede del primer encuentro "
+"internacional de educacin alternativa de habla hispana. Un evento gratuito "
+"que se despleg por toda la ciudad, con ms de 50 invitados internacionales y "
+"el propsito de fomentar la transformacin educativa."
+msgstr ""
+"En Agosto de 2015 la ciudad de Bogot fue sede del primer encuentro "
+"internacional de educacin alternativa de habla hispana. Un evento gratuito "
+"que se despleg por toda la ciudad, con ms de 50 invitados internacionales y "
+"el propsito de fomentar la transformacin educativa."
+
+#: index.php:28
+msgid "Leer ms"
+msgstr "Leer ms"
+
+#: index.php:54
+msgid "Transformacin"
+msgstr "Transformacin"
+
+#: index.php:55
+msgid ""
+"Un llamado a que juntos reconozcamos y reflexionemos con los colegios "
+"pblicos que se han interesado por transformar y transformarse; fortaleciendo "
+"educaciones alternativas e innovadoras; y construyendo nuevos puentes entre "
+"las escuelas y sus territorios."
+msgstr ""
+"Un llamado a que juntos reconozcamos y reflexionemos con los colegios "
+"pblicos que se han interesado por transformar y transformarse; fortaleciendo "
+"educaciones alternativas e innovadoras; y construyendo nuevos puentes entre "
+"las escuelas y sus territorios."
+
+#: index.php:65
+msgid "Territorio"
+msgstr "Territorio"
+
+#: index.php:66
+msgid ""
+"Propuestas desde las nuevas ciudadanas en sus territorios, que ocurrieron "
+"simultneamente en toda la ciudad. Nios, jvenes, adultos, fueron parte de "
+"escenarios de aprendizaje creativo, vivo y consiente mediante encuentros "
+"abiertos, talleres, conversatorios, muestras e intervenciones con un enfoque "
+"experiencial y activo."
+msgstr ""
+"Propuestas desde las nuevas ciudadanas en sus territorios, que ocurrieron "
+"simultneamente en toda la ciudad. Nios, jvenes, adultos, fueron parte de "
+"escenarios de aprendizaje creativo, vivo y consiente mediante encuentros "
+"abiertos, talleres, conversatorios, muestras e intervenciones con un enfoque "
+"experiencial y activo."
+
+#: index.php:77
+msgid "Comunicacin"
+msgstr "Comunicación"
+
+#: index.php:78
+msgid ""
+"Pensadores, educadores, investigadores y emprendedores sociales de Colombia "
+"y el mundo participaron de espacios de intercambio y debate en torno a "
+"problemticas que atraviesan la realidad de la educacin en la regin. "
+"Compartieron sus propuestas e ideas a travs de paneles temticos, talleres "
+"participativos de reflexin y formacin."
+msgstr ""
+"Pensadores, educadores, investigadores y emprendedores sociales de Colombia "
+"y el mundo participaron de espacios de intercambio y debate en torno a "
+"problemticas que atraviesan la realidad de la educación en la regin. "
+"Compartieron sus propuestas e ideas a travs de paneles temticos, talleres "
+"participativos de reflexin y formacin."
+
+#: index.php:88
+msgid "Encuentro"
+msgstr "Encuentro"
+
+#: index.php:89
+msgid ""
+"Referentes internacionales y colombianos del campo de la educacin "
+"alternativa que portan experiencias y puntos de vista disidentes, crticos, "
+"alternativos, contrahegemnicos se reunieron en dilogos participativos sobre "
+"los principales temas en torno a la educacin."
+msgstr ""
+"Referentes internacionales y colombianos del campo de la educacin "
+"alternativa que portan experiencias y puntos de vista disidentes, crticos, "
+"alternativos, contrahegemnicos se reunieron en dilogos participativos sobre "
+"los principales temas en torno a la educacin."
+
+#: index.php:129
+msgid "Actividades gratuitas realizadas"
+msgstr "Actividades gratuitas realizadas"
+
+#: index.php:133
+msgid "Invitados internacionales convocados"
+msgstr "Invitados internacionales convocados"
+
+#: index.php:137
+msgid "Personas asistieron"
+msgstr "Personas asistieron"
+
+#: index.php:141
+msgid "Escuelas locales participaron"
+msgstr "Escuelas locales participaron"
+
+#: index.php:156
+msgid ""
+"Durante la SEA se realiz un Encuentro Latinoamericano con participantes de "
+"todo el continente, en el cual se acord en la escritura colectiva de una "
+"Carta Abierta que reflejara las posturas mayoritarias. Compartimos aqu el "
+"resultado de ese proceso."
+msgstr ""
+"Durante la SEA se realiz un Encuentro Latinoamericano con participantes de "
+"todo el continente, en el cual se acord en la escritura colectiva de una "
+"Carta Abierta que reflejara las posturas mayoritarias. Compartimos aqu el "
+"resultado de ese proceso."
+
+#: index.php:157
+msgid "Ver ms"
+msgstr "Ver ms"
+
+#: header.php:9
+msgid "Semana Internacional de las Educaciones Alternativas - Bogot 2015"
+msgstr "Semana Internacional de las Educaciones Alternativas - Bogot 2015"
+
+#: header.php:11
+msgid ""
+"La SEA es un evento internacional que se desarrol en la ciudad de bogot en "
+"Agosto de 2015."
+msgstr ""
+"La SEA es un evento internacional que se desarrol en la ciudad de bogot en "
+"Agosto de 2015."

@@ -1,26 +1,9 @@
-		<?php
-include("header.php");
-?>
-
-		<?php
-include("menu.php");
-?>
-
-
-		<div id="fh5co-main">
-
-			<div class="fh5co-narrow-content">
-				<div class="row">
-					<div class="col-md-12">
-					
-						<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">Carta Abierta desde Bogotá sobre las Educaciones Alternativas</h2>
-											
-						
+<div id="fh5co-main">
+	<div class="fh5co-narrow-content">
+		<div class="row">
+			<div class="col-md-12">
+				<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">Carta Abierta desde Bogotá sobre las Educaciones Alternativas</h2>
 						<p class="fh5co-lead animate-box" data-animate-effect="fadeInLeft"> Somos personas latinoamericanas comprometidas con la educación y el cambio socioambiental, que venimos dialogando y nos hemos reunido en Bogotá en la “Semana Internacional de las Educaciones Alternativas - SEA” realizada en Agosto del 2015, para compartir reflexiones entorno a la educación. </p>
-
-										
-
-						
 						<p class="animate-box" data-animate-effect="fadeInLeft"> 
 Una de las contribuciones de la SEA Bogotá fue el evidenciar la amplia diversidad existente entorno a las educaciones alternativas. Las convergencias, diferencias, cuestionamientos e inconclusiones son marcas importantes de este gran diálogo colectivo. Hay que tener en cuenta que varios de los invitados y participantes del evento manifestaron su desacuerdo con lo expresado en esta Carta y también con la propuesta de redactarla e incluso con su misma existencia.</p>
 						<p class="animate-box" data-animate-effect="fadeInLeft"> 
@@ -92,23 +75,18 @@ Hay asuntos que nos inquietan sobre los que invitamos a seguir conversando, como
 
 <h3 class="fh5co animate-box" data-animate-effect="fadeInLeft"> Posibles rumbos </h3>
 						<ul> 
-<li  class="animate-box" data-animate-effect="fadeInLeft"><b>Visibilizarnos:</b> documentar, sistematizar y compartir nuestras prácticas y proyectos pedagógicos a fin de conocernos y enriquecerenos mutuamente. Esto como forma de conectarnos entre nosotros y también de darnos a conocer al mundo en el marco de una narrativa histórica común.
-</li><li  class="animate-box" data-animate-effect="fadeInLeft"><b>Autogestión:</b> fortalecer la autonomía pedagógica, administrativa y financiera de los proyectos educativos, para que puedan desarrollar sus ideas en libertad.
-</li><li  class="animate-box" data-animate-effect="fadeInLeft"><b>Comunidades de Aprendizaje:</b> el proceso educativo se profundiza al integrar los saberes de la comunidad y los territorios. Impulsar la presencia de las familias y vecinos en los ambientes donde se desarrollan los proyectos; expandir el aprendizaje hacia los espacios públicos urbanos y naturales. 
-</li><li  class="animate-box" data-animate-effect="fadeInLeft"><b>Redes:</b> generar espacios de encuentro, presenciales y virtuales, como forma de intercambio cultural, creación de vínculos y aprendizajes. Invitar a las personas, proyectos de educación y gobiernos a reflexionar sobre las ideas de cambio aquí propuestas.
-</li><li  class="animate-box" data-animate-effect="fadeInLeft"><b>Integración latinoamericana:</b> incentivar el intercambio entre personas de distintos países de América Latina, para que actuemos de forma coordinada, a partir de compartir nuestras raíces históricas, sociales y culturales. Incentivar acciones similares a la SEA, que permitan el encuentro en la diferencia.
-</li>
-</ul>
+							<li  class="animate-box" data-animate-effect="fadeInLeft"><b>Visibilizarnos:</b> documentar, sistematizar y compartir nuestras prácticas y proyectos pedagógicos a fin de conocernos y enriquecerenos mutuamente. Esto como forma de conectarnos entre nosotros y también de darnos a conocer al mundo en el marco de una narrativa histórica común.
+							</li><li  class="animate-box" data-animate-effect="fadeInLeft"><b>Autogestión:</b> fortalecer la autonomía pedagógica, administrativa y financiera de los proyectos educativos, para que puedan desarrollar sus ideas en libertad.
+							</li><li  class="animate-box" data-animate-effect="fadeInLeft"><b>Comunidades de Aprendizaje:</b> el proceso educativo se profundiza al integrar los saberes de la comunidad y los territorios. Impulsar la presencia de las familias y vecinos en los ambientes donde se desarrollan los proyectos; expandir el aprendizaje hacia los espacios públicos urbanos y naturales. 
+							</li><li  class="animate-box" data-animate-effect="fadeInLeft"><b>Redes:</b> generar espacios de encuentro, presenciales y virtuales, como forma de intercambio cultural, creación de vínculos y aprendizajes. Invitar a las personas, proyectos de educación y gobiernos a reflexionar sobre las ideas de cambio aquí propuestas.
+							</li><li  class="animate-box" data-animate-effect="fadeInLeft"><b>Integración latinoamericana:</b> incentivar el intercambio entre personas de distintos países de América Latina, para que actuemos de forma coordinada, a partir de compartir nuestras raíces históricas, sociales y culturales. Incentivar acciones similares a la SEA, que permitan el encuentro en la diferencia.
+							</li>
+						</ul>
 					</div>
 
 				</div>
 				
 			</div>
 
-
-		</div>
-	</div>
-
-		<?php include("footer.php");?>
 
 

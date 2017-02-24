@@ -34,5 +34,4 @@ $(function () {
 });
 </script>
 
-	</body>
-</html>
+
