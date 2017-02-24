@@ -1,19 +1,10 @@
-		<?php
-include("header.php");
-?>
-
-		
-		<?php
-include("menu.php");
-?>
-
-		
+	
 		<div id="fh5co-main">
 
 			
 
 			<div class="fh5co-narrow-content animate-box fh5co-border-bottom" data-animate-effect="fadeInLeft">
-				<h2 class="fh5co-heading" >Menciones en Medios</span></h2>
+				<h2 class="fh5co-heading" >Media records</span></h2>
 				<p>Durante la Semana Internacional de las Educaciones Alternativas – SEA varios medios de comunicación, masivos y comunitarios, estuvieron haciendo múltiples registros de las actividades sucedidas en el ámbito distrital y comunitario. Entre los registros evidenciados se encuentran tanto los seguimientos periodísticos del Equipo de Comunicaciones de la SEA, como notas, boletines, comunicados y retweet hechos por la Secretaría de Educación de Bogotá, hasta el cubrimiento de medios Nacionales, internacionales , institucionales o de organizaciones sociales.</p>
 <p>Este seguimiento y monitoreo de medios se realizó antes, durante y después del evento.</p>
 				
@@ -471,6 +462,4 @@ include("menu.php");
 				  </ul>
 			</div>
 	</div>
-</div>
-		<?php include("footer.php");?>
 

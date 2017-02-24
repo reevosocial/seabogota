@@ -3,12 +3,12 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-	<head>
+<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Semana Internacional de las Educaciones Alternativas - Bogotá 2015</title>
+		<title><?php echo _('Semana Internacional de las Educaciones Alternativas - Bogotá 2015');?></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="La SEA es un evento internacional que se desarroló en la ciudad de bogotá en Agosto de 2015. " />
+	<meta name="description" content="<?php echo _('La SEA es un evento internacional que se desarroló en la ciudad de bogotá en Agosto de 2015.');?> " />
 	<meta name="keywords" content="educación, educación alternativa, reevo, bogotá, innovación educativa, política pública" />
 	<meta name="author" content="Reevo.org" />
 
@@ -45,6 +45,9 @@
 	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
         <link href="https://fonts.googleapis.com/css?family=Vollkorn|Walter+Turncoat" rel="stylesheet">
 
+        
+        <link href='css/fullcalendar.min.css' rel='stylesheet' />
+<link href='css/fullcalendar.print.min.css' rel='stylesheet' media='print' />
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
 	<!-- Icomoon Icon Fonts-->
@@ -69,4 +72,5 @@
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
 
-	
+</head>
+

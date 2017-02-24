@@ -1,19 +1,9 @@
-		<?php
-include("header.php");
-?>
-
-		
-		<?php
-include("menu.php");
-?>
-
-		
 		<div id="fh5co-main">
 
 			
 
 			<div class="fh5co-narrow-content animate-box fh5co-border-bottom" data-animate-effect="fadeInLeft">
-				<h2 class="fh5co-heading" >Charlas</span></h2>
+				<h2 class="fh5co-heading" >Registro Audiovisual</span></h2>
 				<p>Durante la SEA se realizaron 2 tipos de actividades que fueron registradas en video para ser compartidas por este medio: paneles temáticos con invitados especiales y conversaciones horizontales durante el Encuentro Latinoamericano.</p>
 				
 			</div>
@@ -140,5 +130,4 @@ include("menu.php");
 					
 					
 	</div>
-</div>
-		<?php include("footer.php");?>
+

@@ -1,61 +1,61 @@
 <div class="fh5co-gallery">
 
 
-				<a class="gallery-item" href="agenda.php">
-					<img src="images/agenda.jpg" alt="Agenda">
+				<a class="gallery-item" href="/?p=agenda">
+					<img src="images/agenda.jpg">
 					<span class="overlay">
-						<h2>Agenda</h2>
-						<span>137 Actividades</span>
+						<h2><?php echo _('Agenda');?></h2>
+						<span>137 <?php echo _('Actividades');?></span>
 					</span>
 				</a>
-				<a class="gallery-item" href="grafica.php">
-					<img src="images/apuntes-graficos.jpg" alt="Apuntes Gráficos">
+				<a class="gallery-item" href="/?p=grafica">
+					<img src="images/apuntes-graficos.jpg">
 					<span class="overlay">
-						<h2>Apuntes Gráficos</h2>
-						<span>15 Recursos</span>
+						<h2><?php echo _('Apuntes Gráficos');?></h2>
+						<span>15 <?php echo _('Recursos');?></span>
 					</span>
 				</a>
-				<a class="gallery-item" href="fotos.php">
-					<img src="images/fotos.jpg" alt="Fotografías">
+				<a class="gallery-item" href="/?p=fotos">
+					<img src="images/fotos.jpg" >
 					<span class="overlay">
-						<h2>Fotografías</h2>
-						<span>57 Recursos</span>
+						<h2><?php echo _('Fotografías');?></h2>
+						<span>57 <?php echo _('Recursos');?></span>
 					</span>
 				</a>
-				<a class="gallery-item" href="charlas.php">
+				<a class="gallery-item" href="/?p=charlas">
 					<img src="images/charlas1.jpg">
 					<span class="overlay">
-						<h2>Charlas</h2>
-						<span>8 Recursos</span>
+						<h2><?php echo _('Registro Audiovisual');?></h2>
+						<span>8 <?php echo _('Recursos');?></span>
 					</span>
 				</a>
-				<a class="gallery-item" href="medios.php">
-					<img src="images/medios.jpg" alt="Menciones en Medios">
+				<a class="gallery-item" href="/?p=medios">
+					<img src="images/medios.jpg">
 					<span class="overlay">
-						<h2>Registros en Medios</h2>
-						<span>58 Recursos</span>
+						<h2><?php echo _('Registros en Medios');?></h2>
+						<span>58 <?php echo _('Recursos');?></span>
 					</span>
 				</a>
-				<a class="gallery-item" href="videos.php">
-					<img src="images/videos.jpg" alt="Videos">
+				<a class="gallery-item" href="/?p=videos">
+					<img src="images/videos.jpg">
 					<span class="overlay">
-						<h2>Videos</h2>
-						<span>19 Recursos</span>
+						<h2><?php echo _('Videos');?></h2>
+						<span>19 <?php echo _('Recursos');?></span>
 					</span>
 				</a>
 				<!-- 
-				<a class="gallery-item">
+				<a class="gallery-item" href="/?p=entrevistas">
 					<img src="images/work_4.jpg">
 					<span class="overlay">
-						<h2>Entrevistas</h2>
-						<span>No disponible</span>
+						<h2><?php echo _('Entrevistas');?></h2>
+						<span><?php echo _('No disponible');?></span>
 					</span>
 				</a>
-				<a class="gallery-item">
+				<a class="gallery-item" href="/?p=apuntes">
 					<img src="images/work_1.jpg">
 					<span class="overlay">
-						<h2>Apuntes</h2>
-						<span>No disponible</span>
+						<h2><?php echo _('Apuntes');?></h2>
+						<span><?php echo _('No disponible');?></span>
 					</span>
 				</a>
 				-->

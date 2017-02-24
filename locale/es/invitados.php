@@ -1,17 +1,4 @@
-		<?php
-include("header.php");
-?>
 
-		<?php
-include("menu.php");
-?>
-
-
-
-
-  <!-- Modal -->
-  
-  
   
 
 
@@ -883,7 +870,5 @@ Es docente del Centro de Estudios Montessori, y ha sido invitada a exponer en di
 		
 
 		</div>
-	</div>
 
-		<?php include("footer.php");?>
 

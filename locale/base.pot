@@ -1,0 +1,190 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-24 16:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: menu.php:14
+msgid "Registro"
+msgstr ""
+
+#: menu.php:15
+msgid "Invitados"
+msgstr ""
+
+#: menu.php:16 index.php:151
+msgid "Carta Abierta"
+msgstr ""
+
+#: menu.php:17
+msgid "Organizadores"
+msgstr ""
+
+#: menu.php:22
+msgid "Semana Internacional "
+msgstr ""
+
+#: menu.php:22
+msgid "de las Educaciones Alternativas"
+msgstr ""
+
+#: gallery.php:7
+msgid "Agenda"
+msgstr ""
+
+#: gallery.php:8
+msgid "Actividades"
+msgstr ""
+
+#: gallery.php:14
+msgid "Apuntes Gráficos"
+msgstr ""
+
+#: gallery.php:15 gallery.php:22 gallery.php:29 gallery.php:36 gallery.php:43
+msgid "Recursos"
+msgstr ""
+
+#: gallery.php:21
+msgid "Fotografías"
+msgstr ""
+
+#: gallery.php:28
+msgid "Registro Audiovisual"
+msgstr ""
+
+#: gallery.php:35
+msgid "Registros en Medios"
+msgstr ""
+
+#: gallery.php:42
+msgid "Videos"
+msgstr ""
+
+#: gallery.php:50
+msgid "Entrevistas"
+msgstr ""
+
+#: gallery.php:51 gallery.php:58
+msgid "No disponible"
+msgstr ""
+
+#: gallery.php:57
+msgid "Apuntes"
+msgstr ""
+
+#: index.php:22
+msgid "Semana Internacional de las Educaciones Alternativas"
+msgstr ""
+
+#: index.php:27
+msgid ""
+"En Agosto de 2015 la ciudad de Bogotá fue sede del primer encuentro "
+"internacional de educación alternativa de habla hispana. Un evento gratuito "
+"que se desplegó por toda la ciudad, con más de 50 invitados internacionales "
+"y el propósito de fomentar la transformación educativa."
+msgstr ""
+
+#: index.php:28
+msgid "Leer más"
+msgstr ""
+
+#: index.php:54
+msgid "Transformación"
+msgstr ""
+
+#: index.php:55
+msgid ""
+"Un llamado a que juntos reconozcamos y reflexionemos con los colegios "
+"públicos que se han interesado por transformar y transformarse; "
+"fortaleciendo educaciones alternativas e innovadoras; y construyendo nuevos "
+"puentes entre las escuelas y sus territorios."
+msgstr ""
+
+#: index.php:65
+msgid "Territorio"
+msgstr ""
+
+#: index.php:66
+msgid ""
+"Propuestas desde las nuevas ciudadanías en sus territorios, que ocurrieron "
+"simultáneamente en toda la ciudad. Niños, jóvenes, adultos, fueron parte de "
+"escenarios de aprendizaje creativo, vivo y consiente mediante encuentros "
+"abiertos, talleres, conversatorios, muestras e intervenciones con un enfoque "
+"experiencial y activo."
+msgstr ""
+
+#: index.php:77
+msgid "Comunicación"
+msgstr ""
+
+#: index.php:78
+msgid ""
+"Pensadores, educadores, investigadores y emprendedores sociales de Colombia "
+"y el mundo participaron de espacios de intercambio y debate en torno a "
+"problemáticas que atraviesan la realidad de la educación en la región. "
+"Compartieron sus propuestas e ideas a través de paneles temáticos, talleres "
+"participativos de reflexión y formación."
+msgstr ""
+
+#: index.php:88
+msgid "Encuentro"
+msgstr ""
+
+#: index.php:89
+msgid ""
+"Referentes internacionales y colombianos del campo de la educación "
+"alternativa que portan experiencias y puntos de vista disidentes, críticos, "
+"alternativos, contrahegemónicos se reunieron en diálogos participativos "
+"sobre los principales temas en torno a la educación."
+msgstr ""
+
+#: index.php:129
+msgid "Actividades gratuitas realizadas"
+msgstr ""
+
+#: index.php:133
+msgid "Invitados internacionales convocados"
+msgstr ""
+
+#: index.php:137
+msgid "Personas asistieron"
+msgstr ""
+
+#: index.php:141
+msgid "Escuelas locales participaron"
+msgstr ""
+
+#: index.php:156
+msgid ""
+"Durante la SEA se realizó un Encuentro Latinoamericano con participantes de "
+"todo el continente, en el cual se acordó en la escritura colectiva de una "
+"Carta Abierta que reflejara las posturas mayoritarias. Compartimos aquí el "
+"resultado de ese proceso."
+msgstr ""
+
+#: index.php:157
+msgid "Ver más"
+msgstr ""
+
+#: header.php:9
+msgid "Semana Internacional de las Educaciones Alternativas - Bogotá 2015"
+msgstr ""
+
+#: header.php:11
+msgid ""
+"La SEA es un evento internacional que se desarroló en la ciudad de bogotá en "
+"Agosto de 2015."
+msgstr ""
