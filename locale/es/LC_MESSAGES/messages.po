@@ -22,7 +22,7 @@ msgstr "Invitados"
 
 #: menu.php:16 index.php:151
 msgid "Carta Abierta"
-msgstr "Carta Abierta de Bogotá"
+msgstr "Carta Abierta"
 
 #: menu.php:17
 msgid "Organizadores"

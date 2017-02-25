@@ -1,11 +1,11 @@
-# seabogota
+# SEA Bogota 2015
 
 Página oficial con la sistematización de la SEABogotá 205.
 
+## Créditos
 
 
-
-Template Utilizado: 
+Template Utilizado:
 Blend - Fully Responsive Free HTML5 template
 
 AUTHOR:
@@ -14,9 +14,10 @@ DESIGNED & DEVELOPED by FREEHTML5.co
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
 Facebook: http://facebook.com/fh5co
+Licence: CC BY
 
 
-CREDITS:
+## Also used:
 
 Bootstrap
 http://getbootstrap.com/
@@ -59,4 +60,3 @@ https://github.com/mhuggins/jquery-countTo
 
 Google Map
 https://maps.google.com/
-
