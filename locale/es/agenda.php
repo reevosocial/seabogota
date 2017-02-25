@@ -19,7 +19,7 @@
 								<a>Foro Feria Educativo Distrital</a>
 							</td>
 						</tr>
-									<tr class="fc-list-item">
+						<tr class="fc-list-item">
 							<td class="fc-list-item-marker fc-widget-content">
 								<span class="fc-event-dot ela"></span>
 							</td>
@@ -27,7 +27,7 @@
 								<a>Encuentro Latinoamericano</a>
 							</td>
 						</tr>
-									<tr class="fc-list-item">
+						<tr class="fc-list-item">
 							<td class="fc-list-item-marker fc-widget-content">
 								<span class="fc-event-dot jcte"></span>
 							</td>
@@ -35,7 +35,7 @@
 								<a>Jornadas Colaborativas de Transformación Escolar</a>
 							</td>
 						</tr>
-									<tr class="fc-list-item">
+						<tr class="fc-list-item">
 							<td class="fc-list-item-marker fc-widget-content">
 								<span class="fc-event-dot ca"></span>
 							</td>

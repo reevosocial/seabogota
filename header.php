@@ -12,22 +12,6 @@
 	<meta name="description" content="<?php echo _('La SEA es un evento internacional que se desarroló en la ciudad de bogotá en Agosto de 2015.');?> " />
 	<meta name="keywords" content="educación, educación alternativa, reevo, bogotá, innovación educativa, política pública" />
 	<meta name="author" content="Reevo.org" />
-
-  	<!--
-	//////////////////////////////////////////////////////
-
-	REEVO
-	DESIGNED & DEVELOPED by FreeHTML5.co
-	FORKED by Gedoca
-
-	Website: 		http://www.reevo.org/
-	Email: 			info@reevo.org
-	Twitter: 		http://twitter.com/reevosocial
-	Facebook: 		https://www.facebook.com/reevosocial
-
-	//////////////////////////////////////////////////////
-	-->
-
 	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
@@ -44,10 +28,10 @@
 
 	<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-  <link href="https://fonts.googleapis.com/css?family=Vollkorn|Walter+Turncoat" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Vollkorn|Walter+Turncoat" rel="stylesheet">
 
 
-  <link href='css/fullcalendar.min.css' rel='stylesheet' />
+	<link href='css/fullcalendar.min.css' rel='stylesheet' />
 	<link href='css/fullcalendar.print.min.css' rel='stylesheet' media='print' />
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
